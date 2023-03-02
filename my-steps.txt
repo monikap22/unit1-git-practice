@@ -1,0 +1,156 @@
+### Step 2A
+/Users/monap/OneDrive/Desktop/Unit1-git-practice
+
+
+### Step 2B
+cd ..
+
+### Step 2C
+cd unit1-git-practice
+
+### Step 2D
+pwd( command that will print the absolute path to the current directory)
+/c/Users/monap/OneDrive/Desktop/unit1-git-practice
+
+### Step 2E
+ls (command that will list the files in the current directory.)
+
+### Step 2F
+my-steps.txt
+
+### Step 2G
+(Navigate to your root directory)
+cd ~
+
+### Step 2H
+pwd  (command that will print the absolute path to the current directory)
+/c/Users/monap
+
+### Step 2I
+ ls
+ Agent
+ AppData/
+'Application Data'@
+ Contacts/
+ Cookies@
+ Documents/
+ Downloads/
+ Favorites/
+ Links/
+'Local Settings'@
+ Music/
+'My Documents'@
+ NTUSER.DAT
+ NTUSER.DAT{aa21e6e5-4f17-11ed-87e4-286b3548a4ad}.TxR.0.regtrans-ms
+ NTUSER.DAT{aa21e6e5-4f17-11ed-87e4-286b3548a4ad}.TxR.1.regtrans-ms
+ NTUSER.DAT{aa21e6e5-4f17-11ed-87e4-286b3548a4ad}.TxR.2.regtrans-ms
+ NTUSER.DAT{aa21e6e5-4f17-11ed-87e4-286b3548a4ad}.TxR.blf
+ NTUSER.DAT{aa21e6e6-4f17-11ed-87e4-286b3548a4ad}.TM.blf
+ NTUSER.DAT{aa21e6e6-4f17-11ed-87e4-286b3548a4ad}.TMContainer00000000000000000001.regtrans-ms
+ NTUSER.DAT{aa21e6e6-4f17-11ed-87e4-286b3548a4ad}.TMContainer00000000000000000002.regtrans-ms
+ NetHood@
+ OneDrive/
+ PrintHood@
+ Recent@
+'Saved Games'/
+ Searches/
+ SendTo@
+'Start Menu'@
+ Templates@
+ Videos/
+ eclipse/
+ eclipse-workspace/
+ ntuser.dat.LOG1
+ ntuser.dat.LOG2
+ ntuser.ini
+
+
+
+### Step 2J
+ cd OneDrive/Desktop/
+
+### Step 2K
+
+cd unit1-git-practice
+
+### Step 3A
+ mkdir veggies
+ mkdir meats
+ mkdir desserts
+
+
+### Step 3B
+ mv desserts sweets
+
+
+### Step 3C
+ mkdir proteins
+
+
+### Step 3D
+mv meats proteins
+
+### Step 3E
+command to navigate to the folder 
+ cd veggies
+
+command to create the files
+ touch carrot.txt
+ touch pea.txt
+
+### Step 3F
+navigation
+cd ..
+
+cd sweets
+
+file creation
+ touch cookie.txt
+
+### Step 3G
+ mv cookie.txt donut.txt
+
+
+### Step 3H
+Navigate to the unit1-git-practice folder
+cd ..
+
+new file named thing.txt
+touch thing.txt
+
+### Step 3I
+ cp thing.txt tofu.txt
+
+
+### Step 3J
+mv tofu.txt proteins
+
+### Step 3K
+cp thing.txt crab.txt
+mv crab.txt proteins
+cd proteins
+mv crab.txt meats
+
+### Step 3L
+ rm thing.txt
+
+
+### Step 3M
+ cp -r veggies plants
+
+
+### Step 3N
+ mkdir drinks
+ rm -r drinks
+
+### Step 4
+
+
+### Step 5
+
+
+### Step 6
+
+
+### Step 7
+*** DO NOT RECORD STEP 7 ***
